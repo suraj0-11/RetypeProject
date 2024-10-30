@@ -44,8 +44,6 @@ Feel free to reach out if you want to collaborate or just chat about technology!
 
 I appreciate your time! Don’t forget to check out my GitHub and stay tuned for updates on my projects!
 
-![Footer Image](https://source.unsplash.com/1600x200/?coding)
-
 ---
 
 *This project is powered by [Retype](https://retype.com/)*
