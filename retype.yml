@@ -1,0 +1,26 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  label: Docs
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+  # retype.yml
+
+title: Calculator Site
+baseUrl: /calculator  # Set the base URL for the site
+navigation:
+  - title: Home
+    path: /
+  - title: Add
+    path: /calculator/add
+  - title: Subtract
+    path: /calculator/sub
+  - title: Multiply
+    path: /calculator/mul
+  - title: Divide
+    path: /calculator/div
