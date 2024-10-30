@@ -1,6 +1,5 @@
 # Welcome to My Awesome Project!
 
-![Header Image](https://source.unsplash.com/1600x400/?technology)
 
 Hello there! I'm **Suraj**, a passionate software developer intern. I love exploring new technologies and creating innovative solutions. This project showcases my journey in software development, featuring some of the coolest projects I've worked on.
 
